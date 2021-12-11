@@ -1,0 +1,22 @@
+#titulo-principal{
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+  font-size: 20px;
+}
+
+#ADMISTRADORES_REGIONAIS{
+   font-weight: bold;
+}
+
+img{
+  border: chartreuse;
+  
+  
+}
+
+body{
+  background-image: url(https://www.papeiseparede.com.br/1078-large_default/papel-de-parede-listrado-verde-claro-e-branco-5cm.jpg);
+}
